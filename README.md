@@ -66,3 +66,9 @@ Feel free to open an issue and claim something.
 * Create web API with authentication and server management
 * Connect web API actions to library actions
 * Add persistence - sql/redis/whatever
+
+# Instalation 
+TO DO
+## Database Setup
+1. Run `update-database` in the console or package manager.
+   * Make sure to target the BYOC.Server project 
